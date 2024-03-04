@@ -1,5 +1,5 @@
 {
-  "name": "api-path",
+  "name": "easy-api-path",
   "version": "1.0.0",
   "description": "Use this package like a directory structure in api path",
   "main": "index.js",
