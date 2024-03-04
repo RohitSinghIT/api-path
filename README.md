@@ -5,24 +5,24 @@
 
 ## Installation
 
-Install api-path with npm
+Install "easy-api-path" with npm
 
 ```bash
-  npm install api-path
+  npm install easy-api-path
 ```
 
-Install api-path with yarn
+Install "easy-api-path" with yarn
 
 ```bash
-  yarn add api-path
+  yarn add easy-api-path
 ```
     
 ## Usage/Examples
 
 Create controllers inside "controllers" directory 
 ```javascript
-// import package "api-path"
-const apiPath = require('api-path');
+// import package "easy-api-path"
+const apiPath = require('easy-api-path');
 
 // import your main app
 const {app} = require('../../../../app');
